@@ -1,0 +1,5 @@
+Instructions
+
+.. toctree::
+   :maxdepth: 2
+    instructions
