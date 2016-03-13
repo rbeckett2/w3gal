@@ -22,4 +22,4 @@ http://w3gal.info/test.zip - 154KB
 
 .. toctree::
    :maxdepth: 2
-    samples
+   :caption: samples
