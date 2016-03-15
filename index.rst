@@ -14,7 +14,9 @@ View http://w3gal.info/changelog.txt - 1068 bytes
 
 Download
 
-..image:: https://api.bintray.com/packages/rbeckett37/generic/w3gal/images/download.svg https://bintray.com/rbeckett37/generic/w3gal/_latestVersion
+..image:: https://api.bintray.com/packages/rbeckett37/generic/w3gal/images/download.svg
+
+https://bintray.com/rbeckett37/generic/w3gal/_latestVersion
 
 Usage
 -----
