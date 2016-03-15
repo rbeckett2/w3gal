@@ -12,7 +12,7 @@ W3Gal can be used in place of IIS and ISAPI to host your ATL Server Web Apps. Fo
 You may also use W3Gal to serve up static content. SSL is also supported.
 View http://w3gal.info/changelog.txt - 1068 bytes
 
-Download <a href='https://bintray.com/rbeckett37/generic/w3gal/_latestVersion'><img src='https://api.bintray.com/packages/rbeckett37/generic/w3gal/images/download.svg'></a>
+Download [ ![Download](https://api.bintray.com/packages/rbeckett37/generic/w3gal/images/download.svg) ](https://bintray.com/rbeckett37/generic/w3gal/_latestVersion)
 
 Usage
 -----
