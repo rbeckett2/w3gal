@@ -10,47 +10,47 @@ Creating the Visual Studio Project
 
 1. Open up Visual Studio and create a new project
 
-.. image:: vs_images\1.png
+.. image:: vs_images/1.png
 
 2. Right click the project and click properties, drill down to VC++ directories
 
 3. Select All Configurations
 
-.. image:: vs_images\2.png
+.. image:: vs_images/2.png
 
 4. insert C:\\projects\\iot\\common; at the beginning of the list of include directories as shown below
 
-.. image:: vs_images\3.png
+.. image:: vs_images/3.png
 
 For more information about this, please refere to the document that shows you how to modify the atl and atl server include files
 
 5. Remove Main.cpp from the project and delete it
 
-.. image:: vs_images\4.png
+.. image:: vs_images/4.png
 
 6. Right click the project and add a new .cpp file and call it dllmain
 
-.. image:: vs_images\5.png
+.. image:: vs_images/5.png
 
 7. Right click the project and add a new .h file and call it dllmain
 
-.. image:: vs_images\6.png
+.. image:: vs_images/6.png
 
 8. Right click the project and change the output to dynamic link library as shown below
 
-.. image:: vs_images\7.png
+.. image:: vs_images/7.png
 
 9. Also disable the SDL checkes as shown below
 
-.. image:: vs_images\8.png
+.. image:: vs_images/8.png
 
 10. You should also change the libraries as shown below
 
-.. image:: vs_images\9.png
+.. image:: vs_images/9.png
 
 11. Also add the _USRDLL; instead of the CONSOLE
 
-.. image:: vs_images\10.png
+.. image:: vs_images/10.png
 
 Modifying the atl and atl server include files
 ----------------------------------------------
