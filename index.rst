@@ -63,7 +63,7 @@ Details
 - w3gal uses 620KB of ram. Once you load your ATL Server Request handler, the usage will grow since the dll is mapped into w3gal's memory. Static files will also be loaded into RAM temporarily - don't try to send down a file that's over 256MB in size or else w3gal will run out of memory (at least on the Intel Galileo).
 - I have tested w3gal with IPv6 and it is working, but not with SSL.
 - HTTP errors will be logged to the console
-.. image:: images\console.png
+.. image:: _images\console.png
 
 
 
