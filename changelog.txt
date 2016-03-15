@@ -1,0 +1,22 @@
+2014-11-16	Initial Release
+2015-02-07	Fixed bug with HTTP Error (httpResponse.pReason had an extra NULL character which the HTTPAPI did not like)
+		Added 'non-user-friendly' html error message to httpResponse as well as text/html header
+		Created misc.txt for instructions on how to set the time on the galileo
+		Created changelog.txt (this file)
+2015-03-10	Fixed bug with http header parsing from the atl server request handler
+		Introduced SSL support for w3gal and created instructions
+		Fixed bug with clients entering IP Address instead of hostname on requests
+		Fixed bug with redirect - created example solution called redir to show how to use http redirects
+2015-04-18 	Fixed bug with http disconnects
+		Fixed bug with http 404 on directories
+		Fixed bug with accept methods
+		Added http method query to atl server context
+		Fixed bug with query strings in atl server init
+		Added versioning to image (version 1.0.0.1)
+		Created debugging help document
+		Added additional sample showing how to use query strings in an atl server web application
+2015-09-29	Redesigned to use a thread pool
+		Added chunked http responses to requests for static files
+		Fixed several memory leaks
+		changed command line options
+		Old version is still available via http://w3gal.info/oldw3gal.exe
