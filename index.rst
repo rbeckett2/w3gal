@@ -10,7 +10,7 @@ An ATL Server based web-server for hosting ATL Server Web applications on the Wi
 
 W3Gal can be used in place of IIS and ISAPI to host your ATL Server Web Apps. For more information on ATL Server, please see http://msdn.microsoft.com/en-us/library/exb5b09w(v=vs.80).aspx and http://atlserver.codeplex.com/ Think of w3gal as an interface between ATL Server and the HTTP Api.
 You may also use W3Gal to serve up static content. SSL is also supported.
-View http://w3gal.info/changelog.txt - 1068 bytes
+View https://github.com/rbeckett2/w3gal/blob/master/changelog.txt
 
 Download
 
