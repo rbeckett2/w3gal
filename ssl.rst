@@ -6,9 +6,9 @@ Importing the certificate to w3gal
 Downloads
 ---------
 
-https://bintray.com/rbeckett37/generic/util/ImportPFX.exe  - 26KB
+https://bintray.com/artifact/download/rbeckett37/generic/util/ImportPFX.exe  - 26KB
 
-https://bintray.com/rbeckett37/generic/util/HttpSetCert.exe - 20KB
+https://bintray.com/artifact/download/rbeckett37/generic/util/HttpSetCert.exe - 20KB
 
 1. Copy the .pfx file to the galileo
 2. Open a telnet session to the mygalileo and run ImportPfx
