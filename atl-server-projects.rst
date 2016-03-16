@@ -57,7 +57,7 @@ Modifying the atl and atl server include files
 
 Line numbers are consecutive after each modification
 
-1. Download the atl server files from http://w3gal.info/common.zip
+1. Download the atl server files from https://bintray.com/rbeckett37/generic/common.zip
 
 2. Extract it to a directory (ie. C:\\projects\\iot\\common)
 
