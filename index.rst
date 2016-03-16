@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-  .. meta::
+.. meta::
       :google-site-verification: 1ubIbnTq0HzUCfA_ZyxXeHAkJtGjW7XYwhMBinMOums
       
 w3gal
