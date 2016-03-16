@@ -5,19 +5,19 @@ Samples
 
 A sample atl server request handler that shows a directory listing
 
-http://w3gal.info/dirlist.zip - 50.5KB
+https://dl.bintray.com/rbeckett37/generic/samples/dirlist.zip - 50.5KB
 
 Sample atl server request handler that shows an http redirect
 
-http://w3gal.info/redir.zip - 59.9KB
+https://dl.bintray.com/rbeckett37/generic/samples/redir.zip - 59.9KB
 
 Sample atl server request handler that shows retrieving the values of an http GET
 
-http://w3gal.info/showme.zip - 61.9KB
+https://dl.bintray.com/rbeckett37/generic/samples/showme.zip - 61.9KB
 
 Another basic sample
 
-http://w3gal.info/test.zip - 154KB
+https://dl.bintray.com/rbeckett37/generic/samples/test.zip - 154KB
 
 
 .. toctree::
