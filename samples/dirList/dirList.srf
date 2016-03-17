@@ -1,0 +1,15 @@
+<html>
+{{handler c:\test\atlserver\dirlist.dll/Default}}
+<head>
+</head>
+<body>
+    <table cellspacing="0" cellpadding="0" width="40%">
+        <thead><tr><th>FileName</th><th>Size</th><th>Modified</th></tr></thead>
+        {{while HasMoreFiles}}
+        <tr bgcolor="{{FileColor}}"><td>{{FileName}}</td><td>{{FileSize}}</td><td>{{FileModified}}</td></tr>
+        {{endwhile}}
+    </table>
+    
+
+</body>
+</html>
