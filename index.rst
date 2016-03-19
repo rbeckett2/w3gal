@@ -66,7 +66,7 @@ Details
 - HTTP headers are available to your atl server request handler, as well as several extensions. See :ref:`http-headers` for more information.
 - Currently w3gal uses a text based buffer for handling ATL Server requests. Keep this in mind if you decide to try and use an ATL Server request handler to send binary data: it may not work very fast.
 - You can create ATL Server request handlers using Visual Studio 2003 or 2005, but you must upgrade them to Visual Studio 2013 projects for re-compiling and debugging on the Windows for IOT platform. An easier method is to download one of the sample projects and rename it. Another method is described in :ref:`atl-server-projects`
-- w3gal uses 620KB of ram. Once you load your ATL Server Request handler, the usage will grow since the dll is mapped into w3gal's memory. Static files will also be loaded into RAM temporarily - don't try to send down a file that's over 256MB in size or else w3gal will run out of memory (at least on the Intel Galileo).
+- w3gal uses 620KB of ram. Once you load your ATL Server Request handler, the usage will grow since the dll is mapped into w3gal's memory.
 - I have tested w3gal with IPv6 and it is working, but not with SSL.
 - HTTP errors will be logged to the console
 .. image:: images/console.png
