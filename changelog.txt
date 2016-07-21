@@ -19,4 +19,4 @@
 		Added chunked http responses to requests for static files
 		Fixed several memory leaks
 		changed command line options
-		Old version is still available via http://w3gal.info/oldw3gal.exe
+		Old version is still available via https://bintray.com/rbeckett37/generic/w3gal#files/old
