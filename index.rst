@@ -5,13 +5,14 @@
 
 .. meta::
       :google-site-verification: 1ubIbnTq0HzUCfA_ZyxXeHAkJtGjW7XYwhMBinMOums
+      :msvalidate.01: C0B31B914FC3B611C6E8198FF4B62417
       
 w3gal
 =====
 
 An ATL Server based web-server for hosting ATL Server Web applications on the Windows for Iot Platform (Intel Galileo only)
 
-W3Gal can be used in place of IIS and ISAPI to host your ATL Server Web Apps. For more information on ATL Server, please see http://msdn.microsoft.com/en-us/library/exb5b09w(v=vs.80).aspx and http://atlserver.codeplex.com/ Think of w3gal as an interface between ATL Server and the HTTP Api.
+W3Gal can be used in place of IIS and ISAPI to host your ATL Server Web Apps. For more information on ATL Server, please see http://msdn.microsoft.com/en-us/library/exb5b09w(v=vs.80).aspx and http://atlserver.codeplex.com/ 
 You may also use W3Gal to serve up static content. SSL is also supported.
 View https://github.com/rbeckett2/w3gal/blob/master/changelog.txt
 
@@ -58,7 +59,7 @@ Will start w3gal using ssl support (but you must set up ssl first, see :ref:`ssl
 Details
 -------
 
-- w3gal is a replacement for IIS on the Windows for IOT platform (x86 only) 
+- w3gal is a stand-alone web server on the Windows for IOT platform (x86 only) 
 - You may also use it on Windows 8, 10, Server 2012, 2016
 - It handles http byte-range requests.
 - w3gal is synchronous in nature (ie. you cannot have 2 clients downloading data at the same time - only 1 is allowed).
